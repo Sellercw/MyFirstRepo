@@ -1,0 +1,69 @@
+
+public class Contact {
+	String firstName;
+	String lastName;
+	String phone;
+	String email;
+	String address;
+
+	public Contact(){
+		address = "";
+		firstName = "";
+		lastName = "";
+		phone = "";
+		email = "";
+		address = "";
+	}
+
+	public boolean equals(Contact contact){
+		if (this.firstName.equals(contact.getFirstName())&& this.lastName.equals(contact.getLastName())){
+			if(this.phone.equals(contact.getPhone())){
+				return true;
+			}
+		}
+		return false;
+	}
+
+	public String toString(Contact c){
+		return (c.getFirstName()+" "+c.getLastName()+", "+c.getAddress()+", "+c.getEmail()+", "+c.getPhone());
+	}
+
+	public String getFirstName() {
+		return firstName;
+	}
+
+	public void setFirstName(String firstName) {
+		this.firstName = firstName;
+	}
+
+	public String getLastName() {
+		return lastName;
+	}
+
+	public void setLastName(String lastName) {
+		this.lastName = lastName;
+	}
+
+	public String getPhone() {
+		return phone;
+	}
+
+	public void setPhone(String phone) {
+		this.phone = phone;
+	}
+
+	public String getEmail() {
+		return email;
+	}
+
+	public void setEmail(String email) {
+		this.email = email;
+	}
+
+	public String getAddress() {
+		return address;
+	}
+	public void setAddress(String address) {
+		this.address = address;
+	}
+}

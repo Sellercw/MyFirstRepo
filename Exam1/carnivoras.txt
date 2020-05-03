@@ -1,0 +1,3 @@
+Bella,2,cat,true
+Coco,3,dog,false
+Alfie,1,lion,true

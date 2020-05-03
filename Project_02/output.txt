@@ -1,0 +1,10 @@
+1010, 1001,  Sarah Williams, 2000 2000,  Santa Monica,  FL,  30309,  123-45-6789, 9099.03
+1020, 1002,  Barah Williams, 2001 2001,  Banta Monica,  AL,  30300,  123-45-6780, 9099.04
+1030, 1003,  Carah Williams, 2002 2002,  Canta Monica,  BL,  30301,  123-45-6781, 9099.05
+1040, 1004,  Darah Williams, 2003 2003,  Danta Monica,  CL,  30302,  123-45-6782, 9099.06
+1050, 1005,  Earah Williams, 2004 2004,  Eanta Monica,  DL,  30303,  123-45-6783, 9099.07
+1060, 1006,  Farah Williams, 2005 2005,  Fanta Monica,  EL,  30304,  123-45-6784, 9099.08
+1070, 1007,  Garah Williams, 2006 2006,  Ganta Monica,  lL,  30305,  123-45-6785, 9099.09
+1080, 1008,  Harah Williams, 2007 2007,  Hanta Monica,  GL,  30306,  123-45-6786, 9099.0
+1090, 1009,  Iarah Williams, 2008 2008,  Ianta Monica,  HL,  30307,  123-45-6787, 9099.01
+1100, 1010,  Jarah Williams, 2009 2009,  Janta Monica,  IL,  30308,  123-45-6788, 9099.02
